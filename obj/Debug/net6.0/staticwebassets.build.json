@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Hcx0nrH+P6d3wEc1dcKlHWb552MFZu1O0MfwQBfRKs0=",
+  "Source": "TodoBasicAPI.MySQL",
+  "BasePath": "_content/TodoBasicAPI.MySQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
