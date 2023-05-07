@@ -1,0 +1,4 @@
+dotnet ef dbcontext scaffold Name=TodoAPIDB Pomelo.EntityFrameworkCore.MySql --output-dir Models --context-dir Data --namespace TodoBasicAPI.Models --context-namespace TodoBasicAPI.Data --context TodoBasicAPIContext -f --no-onconfiguring
+
+
+dotnet ef dbcontext scaffold Name=TodoAPIDB Pomelo.EntityFrameworkCore.MySql -o Models -f --no-onconfiguring
